@@ -25,7 +25,7 @@ In order to build and run the sample application you must obtain an App ID:
 ```xml
 <string name="agora_app_id"><#YOUR APP ID#></string>
 ```
-4. Contact sales@agora.io and get authpack.java for Faceunity SDK, then replace **faceunity/src/main/java/com/faceunity/authpack.java** with your authpack.java
+4. Contact labcv_business@bytedance.com to get byted effect resource bundle.
 
 ### Prepare agora SDK
 1. Download agora SDK from the official download page: https://www.agora.io/en/download/.
