@@ -1,10 +1,10 @@
-# Agora Video With ByteEffect
+# Agora Video With BytedEffect
 
 This tutorial enables you to quickly get started in your development efforts to create an Android app with real-time video calls, voice calls, and interactive broadcasting. With this sample app you can:
 
 * Join and leave a channel.
 * Choose between the front or rear camera.
-* Real time Sticky/Effect/Filter for video(provided by ByteDance Effect SDK)
+* Real time Sticky/Effect/Filter for video(powered by BytedEffect SDK)
 
 
 ## Prerequisites
